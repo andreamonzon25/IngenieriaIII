@@ -34,6 +34,15 @@
     <artifactId>maven-jdepend-plugin</artifactId>
     <version>1.6.1</version>
 </dependency>
+
+<!-- https://mvnrepository.com/artifact/com.github.stephenc.findbugs/findbugs-annotations -->
+<dependency>
+    <groupId>com.github.stephenc.findbugs</groupId>
+    <artifactId>findbugs-annotations</artifactId>
+    <version>1.3.9-1</version>
+</dependency>
+
+
   </dependencies>
   <build>
 		<plugins>
